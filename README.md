@@ -1,7 +1,7 @@
 ## E-commerce Website using React, Redux, and Redux-Saga
 This project is a basic e-commerce website that focuses mainly on the implementation of Redux and Redux-Saga. The backend data is retrieved from a JSON server.
 
-##Technologies Used
+## Technologies Used
  - React
  - Redux
  - Redux-Saga
@@ -16,9 +16,8 @@ This project is a basic e-commerce website that focuses mainly on the implementa
 ## Installation
 Clone the repository to your local machine.
 ```bash
-  git clone https://github.com/mskothari07/Reflective_journal.git
+ https://github.com/mskothari07/ecom-using-redux-redux-saga.git
 ```
-
 
 Go to the project directory
 
@@ -32,6 +31,7 @@ Install dependencies
 ```bash
   npm install
 ```
+## Once go through package.json for all the dependencies
 
 Start the client(Frontend)
 
@@ -56,10 +56,6 @@ Open terminal in same folder
 - Implementation of user authentication and authorization.
 - Payment Options
 
-
-
-
-## Once go through package.json for all the dependencies
 
 ## Screenshots
 
