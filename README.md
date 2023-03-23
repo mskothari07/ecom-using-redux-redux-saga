@@ -63,8 +63,6 @@ Open terminal in same folder
 
 ![App Screenshot](https://imgur.com/h8IAC2G.jpeg)
 
-![App Screenshot](https://imgur.com/AGEHo4g.jpeg)
-
 ![App Screenshot](https://imgur.com/0S7SQ1u.jpeg)
 
 ## 🚀 About me
