@@ -44,7 +44,7 @@ Open terminal in same folder
 
 ```bash
   cd db
-  json-server --watch db.json --port 3500
+  json-server --watch db/db.json --port 3500
 ```
 
 ## Ports 
@@ -63,7 +63,10 @@ Open terminal in same folder
 
 ![App Screenshot](https://imgur.com/h8IAC2G.jpeg)
 
+![App Screenshot](https://imgur.com/lH74mrY.jpeg)
+
 ![App Screenshot](https://imgur.com/0S7SQ1u.jpeg)
+
 
 ## 🚀 About me
 
