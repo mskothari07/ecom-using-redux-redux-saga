@@ -82,4 +82,4 @@ Learning Full Stack Development
 
 ## Support
 
-For support, [MailMe](mailto:reachmsk@gmail.com)
+For support, [MailMe](mailto:reachmskothari@gmail.com)
